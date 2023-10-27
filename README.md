@@ -1,4 +1,4 @@
-# ReadMe para Captura de Tela com Puppeteer
+# Captura de Tela com Puppeteer
 
 Este script Node.js utiliza o Puppeteer, uma ferramenta de automação de navegador baseada no Chrome, para capturar screenshots de páginas da web. Os usuários podem especificar a URL a ser acessada, a resolução da tela (mobile, tablet ou desktop) e o nome do arquivo de screenshot. Este ReadMe fornece instruções sobre como usar o script e seus principais recursos.
 
